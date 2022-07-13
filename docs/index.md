@@ -1,4 +1,4 @@
-**SUBGRAPHS**
+### **SUBGRAPHS**
 
 *Why* should we use subgraphs?
 *When* do we use subgraphs?
